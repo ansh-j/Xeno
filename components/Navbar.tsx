@@ -10,7 +10,7 @@ const Navbar = () => {
       <Link href="/" className='flex items-center gap-1'>
         <Image src="/icons/logo.svg" alt='logo-img' width={32} height={32} className='max-sm:size-10' />
         <p className='text-[24px] font-extrabold text-white max-sm:hidden'>Xeno</p>
-      </Link>s
+      </Link>
 
       <div className='flex justify-between items-center gap-5'>
         <SignedIn>
